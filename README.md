@@ -4,7 +4,7 @@ The Ultimate PlayerPrefs editor extension helps you to manage your local game da
 
 ## Note
 
-This repository is only created for isse tacking and the wiki documentation (cooming soon). The plugin source code is fully open and available after the purchase on the Unity Asset Store.
+This repository is only created for **Issue-Tacking** and the **Wiki-Documentation** (Wiki Docs are cooming soon). The plugin source code is fully open and available after the purchase on the Unity Asset Store.
 
 ## Tutorial Videos
 
