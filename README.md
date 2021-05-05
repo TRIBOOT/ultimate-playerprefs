@@ -14,4 +14,4 @@ These videos shows you the first steps into the editor extension with some simpl
 
 ## Further links
 
-[Unity Asset Store](http://u3d.as/2o0b) | [Unity-Forum](https://triboot.de/ultimate-playerprefs/unity-forum) | [Official Website](https://triboot.de/ultimate-player-prefs) | [Documentation](https://triboot.de/ultimate-playerprefs/documentation)
+[Unity Asset Store](http://u3d.as/2o0b) | [Unity-Forum](https://triboot.de/ultimate-playerprefs/unity-forum) | [Official Website](https://triboot.de/ultimate-player-prefs) | [Documentation](https://triboot.de/projekt/ultimate-playerprefs/documentation)
